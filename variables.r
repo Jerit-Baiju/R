@@ -1,6 +1,9 @@
 name <- "Jerit Baiju"
 age <- 16
 
+# global_name
+glo <<- "global variable"
+
 name
 age
 
